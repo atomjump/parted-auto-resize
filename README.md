@@ -1,5 +1,7 @@
 ## WAT
 
+__WARNING: this project has now moved to https://src.atomjump.com/atomjump/parted-auto-resize.git__
+
 in short `resize a partition non-interactive to its maximum size`
 
 #### The long story..
